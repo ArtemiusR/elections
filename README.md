@@ -13,6 +13,7 @@ I located 3 polling stations with high amount of unvalid ballots in one specific
 
 %destroyers - the part of unvalid ballots. High amount of unvalid ballots resulted in the lowest result of United Russia in whole region
 
+![242564042_6192360790837655_8803712515988728963_n](https://user-images.githubusercontent.com/92031990/136246172-02f8632f-3044-4266-b021-b0b5ec7aa2e4.jpg)
 ![dots_vrn](https://user-images.githubusercontent.com/92031990/136232194-3d9d3dd9-e356-41b2-b15e-2db2ad58468c.png)
 ![dots_oblast](https://user-images.githubusercontent.com/92031990/136232272-f5b22428-9ae7-4d94-857f-a541252f3538.png)
 ![votes_per_turnout_vrn](https://user-images.githubusercontent.com/92031990/136232446-20a33522-8739-476d-9e08-7f01121bfc7f.png)
