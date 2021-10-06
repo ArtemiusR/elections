@@ -19,3 +19,4 @@ I located 3 polling stations with high amount of unvalid ballots in one specific
 ![votes_per_turnout_vrn_oblast](https://user-images.githubusercontent.com/92031990/136232456-7672203f-40c7-4141-90b5-59bc311212c2.png)
 ![dots_vs_outside_vrn_oblast](https://user-images.githubusercontent.com/92031990/136232473-22b8594e-8d7a-432a-8e77-4254a65aff69.png)
 
+More in Elections_parties.ipynb
