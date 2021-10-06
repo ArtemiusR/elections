@@ -10,6 +10,7 @@ Inspired by https://www.facebook.com/sergey.shpilkin and @dkobak
 I located 3 polling stations with high amount of unvalid ballots in one specific district
 
 ![image](https://user-images.githubusercontent.com/92031990/136232731-56808ead-9471-40a6-bddb-0fc07b8e8aef.png)
+
 %destroyes - the part of unvalid ballots. High amount of unvalid ballots resulted in the lowest reselt of United Russia in whole region
 
 ![dots_vrn](https://user-images.githubusercontent.com/92031990/136232194-3d9d3dd9-e356-41b2-b15e-2db2ad58468c.png)
