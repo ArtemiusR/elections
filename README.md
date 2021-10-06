@@ -1,4 +1,4 @@
-# 2021 Duma elections 
+# 2021 Duma elections (Voronezhskaya oblast region)
 
 First Data Science project
 
