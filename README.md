@@ -1,4 +1,7 @@
 # 2021 Duma elections 
+
+First Data Science project
+
 Analyzing Russian 2021 Duma elections in Voronezhskaya Oblast
 
 Inspired by https://www.facebook.com/sergey.shpilkin and @dkobak 
